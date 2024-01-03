@@ -61,6 +61,7 @@ The [Internet Computer](https://internetcomputer.org/) is a public blockchain th
 - [Candid for Rust Canisters](https://6zvwc-sqaaa-aaaal-aalma-cai.raw.icp0.io/d/automatically-generate-candid-from-rust-on-the-ic) - How to automatically generate Candid files for canisters implemented in Rust.
 - [Considerations for NFT Developers](https://internetcomputer.org/docs/current/developer-docs/best-practices/considerations-for-nft-devs) - Discussion of best practices for NFT developers.
 - [Deploy Your First dApp on the IC in 10 Minutes!](https://www.youtube.com/watch?v=r5s7nD_XO0M) - Getting started video tutorial.
+- [Deploy Your First dApp on the Internet Computer with Motoko in 1 hour](https://github.com/motoko-bootcamp/dao-adventure-initiation) - A guided challenge to deploy your first dApp on the Internet Computer using the Motoko language.
 - [Frontends on the Internet Computer](https://www.youtube.com/watch?v=rjSDvTaEj3s) - Video tutorial on hosting frontends using the asset canister.
 - [EmberJS Frontend for the Internet Computer](https://github.com/onehilltech/ember-cli-dfinity/blob/main/docs/getting-started.md) - Getting started tutorial using the hello example.
 - [Intro to Building on the Internet Computer](https://www.youtube.com/watch?v=fSO___x3e3I) - Video introduction to building on the IC with Motoko and Rust.
